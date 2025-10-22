@@ -1,6 +1,5 @@
 
-WeChatHook 4.1.![微信图片_20250528095635](https://github.com/user-attachments/assets/ec3ff187-3073-42c9-a518-319e52604360)
-1.19 版本说明
+WeChatHook 4.1.1.19 版本说明
 WeChatHook 是一个用于对微信客户端进行功能扩展和开发的钩子库。本文件详细说明了 4.1.1.19 版本的功能、变更和使用方法。
 
 📌 版本信息
@@ -79,3 +78,4 @@ HTTP API服务： 提供HTTP接口，方便其他语言（如Python、C#、Go）
 启动微信： 注入成功后，启动微信客户端。
 
 验证功能： 查看日志文件或通过HTTP接口测试功能是否正常。
+联系方式![微信图片_20250528095635](https://github.com/user-attachments/assets/ec3ff187-3073-42c9-a518-319e52604360)
